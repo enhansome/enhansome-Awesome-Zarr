@@ -1,0 +1,292 @@
+{
+  "items": [
+    {
+      "description": "The Zarr website is already an excellent resource for learning about Zarr and its ecosystem. This list is intended to complement the website with a curated and opinionated list of resources.\nThis list focuses on Geo/Earth Sciences, but is not limited to that domain.",
+      "items": [],
+      "title": "Existing resources"
+    },
+    {
+      "description": "Lists",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zarr tutorials (zarr-developers/tutorials)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-07T11:45:24Z",
+            "owner": "zarr-developers",
+            "repo": "tutorials",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projects using Zarr (zarr-developers/community#19)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-29T16:20:22Z",
+            "owner": "zarr-developers",
+            "repo": "community",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beautiful Zarr (zarr-developers/beautiful-zarr)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-10T20:09:40Z",
+            "owner": "zarr-developers",
+            "repo": "beautiful-zarr",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Existing lists"
+    },
+    {
+      "description": "This list contains libraries that directly relate to Zarr in some way.\nFor implementations of Zarr, see Zarr Implementations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xpublish",
+          "description": "Exposing as and consuming Zarr through a REST API",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "See also routers at xpublish-community",
+              "description": ", e.g. xpublish-opendap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-10T21:02:18Z",
+                "owner": "xpublish-community",
+                "repo": "xpublish-opendap",
+                "stars": 8
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:02:25Z",
+            "owner": "xpublish-community",
+            "repo": "xpublish",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndpyramid",
+          "description": "utility for generating ND array pyramids using Xarray and Zarr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T22:22:38Z",
+            "owner": "carbonplan",
+            "repo": "ndpyramid",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Zarr has seen great adoption in the life sciences domain.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ome-zarr-py",
+          "description": "Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:52:54Z",
+            "owner": "ome",
+            "repo": "ome-zarr-py",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ez_zarr",
+          "description": "Easy, high-level access to OME-Zarr filesets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-22T12:41:05Z",
+            "owner": "fmicompbio",
+            "repo": "ez_zarr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hdmf-zarr",
+          "description": "Zarr I/O backend for HDMF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T12:47:20Z",
+            "owner": "hdmf-dev",
+            "repo": "hdmf-zarr",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bdz",
+          "description": "Zarr-based format for storing quantitative biosystems dynamics data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-16T02:41:09Z",
+            "owner": "openssbd",
+            "repo": "bdz",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Life sciences"
+    },
+    {
+      "description": "Zarr has seen most work on visualization in the bioimaging community:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neuroglancer",
+          "description": "WebGL-based viewer for volumetric data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:01:04Z",
+            "owner": "google",
+            "repo": "neuroglancer",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vizarr",
+          "description": "interactive viewer built using viv (OME-Zarr and OME-TIFF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T14:50:55Z",
+            "owner": "hms-dbmi",
+            "repo": "vizarr",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "Zarr and N5 are two similar array data formats that share common goals and development.\nThe Zarr V3 spec aims to provide a common implementation target (sources: 1, 2)\nLinks",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T13:53:58Z",
+            "owner": "saalfeldlab",
+            "repo": "n5",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "z5",
+          "description": "C++ and Python interface for datasets in zarr and n5 format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-02T16:42:43Z",
+            "owner": "constantinpape",
+            "repo": "z5",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zarr N5 spec diff (zarr-specs#3)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T05:24:37Z",
+            "owner": "zarr-developers",
+            "repo": "zarr-specs",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "N5"
+    },
+    {
+      "description": "STAC provides a common structure for describing and cataloging spatiotemporal assets.\nWith its hierarchical structure and key-value metadata support, Zarr's capabilities overlap significantly with STAC.\nThe communities have not yet converged on a canonical representation of Zarr datasets through STAC.\nToday, a good example of exposing Zarr in STAC is Planetary Computer",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xstac",
+          "description": "STAC from xarray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T16:30:41Z",
+            "owner": "stac-utils",
+            "repo": "xstac",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Related STAC extensions: xarray-assets",
+          "description": ", datacube",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-06-04T08:06:13Z",
+            "owner": "stac-extensions",
+            "repo": "xarray-assets",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Zarr & STAC"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:53:02.463Z",
+    "original_repository": "DahnJ/Awesome-Zarr",
+    "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
+    "enhanced_repository_description": null,
+    "title": "Awesome Zarr with stars"
+  }
+}
