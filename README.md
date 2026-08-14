@@ -81,10 +81,10 @@ For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/impleme
 
 Storage & I/O
 
-* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 273 | 🐛 79 | 🌐 C++ | 📅 2026-08-13: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
+* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 273 | 🐛 80 | 🌐 C++ | 📅 2026-08-14: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 177 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-08-10: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,676 | 🐛 1,507 | 🌐 Python | 📅 2026-08-13)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,676 | 🐛 1,507 | 🌐 Python | 📅 2026-08-14)
 
 ETL
 
@@ -116,7 +116,7 @@ Talks and tutorials
 
 #### Future of Kerchunk
 
-In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-13 package.
+In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-14 package.
 
 * [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 108 | 🐛 133 | 📅 2026-07-27
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
@@ -154,7 +154,7 @@ Talks
 
 Zarr has seen great adoption in the life sciences domain.
 
-* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 256 | 🐛 81 | 🌐 Python | 📅 2026-08-13: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
+* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 257 | 🐛 81 | 🌐 Python | 📅 2026-08-14: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
 * [ez\_zarr](https://github.com/fmicompbio/ez_zarr) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2025-09-22: Easy, high-level access to OME-Zarr filesets
 * [hdmf-zarr](https://github.com/hdmf-dev/hdmf-zarr) ⭐ 10 | 🐛 45 | 🌐 Python | 📅 2026-07-30: Zarr I/O backend for [HDMF](https://hdmf.readthedocs.io/en/stable/)
 * [bdz](https://github.com/openssbd/bdz) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-09-16: Zarr-based format for storing quantitative biosystems dynamics data
@@ -169,7 +169,7 @@ Talks and resources
 
 Zarr has seen most work on visualization in the bioimaging community:
 
-* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,348 | 🐛 238 | 🌐 TypeScript | 📅 2026-08-12: WebGL-based viewer for volumetric data
+* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,348 | 🐛 237 | 🌐 TypeScript | 📅 2026-08-14: WebGL-based viewer for volumetric data
 * [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 199 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 356 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-10 (OME-Zarr and OME-TIFF)
 * List: [Image viewers with OME-Zarr support](https://ngff.openmicroscopy.org/tools/)
 * [WEBKNOSSOS](https://webknossos.org/): web-based visualization & annotation tool, supports OME-Zarr
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

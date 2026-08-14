@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:52:54Z",
+            "last_commit": "2026-08-14T14:43:12Z",
             "owner": "ome",
             "repo": "ome-zarr-py",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -175,7 +175,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T13:01:04Z",
+            "last_commit": "2026-08-14T02:32:22Z",
             "owner": "google",
             "repo": "neuroglancer",
             "stars": 1348
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:53:02.463Z",
+    "last_updated": "2026-08-14T17:47:00.210Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
