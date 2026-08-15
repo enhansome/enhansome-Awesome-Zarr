@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:32:22Z",
+            "last_commit": "2026-08-14T17:49:42Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1348
+            "stars": 1350
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:47:00.210Z",
+    "last_updated": "2026-08-15T17:15:12.161Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
