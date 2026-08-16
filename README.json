@@ -82,7 +82,7 @@
             "last_commit": "2026-08-10T21:02:25Z",
             "owner": "xpublish-community",
             "repo": "xpublish",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-14T14:43:12Z",
             "owner": "ome",
             "repo": "ome-zarr-py",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-14T17:49:42Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1350
+            "stars": 1351
           }
         },
         {
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:15:12.161Z",
+    "last_updated": "2026-08-16T17:14:18.768Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
