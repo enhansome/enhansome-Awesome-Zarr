@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-28T13:53:58Z",
+            "last_commit": "2026-08-17T12:14:04Z",
             "owner": "saalfeldlab",
             "repo": "n5",
             "stars": 204
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:14:18.768Z",
+    "last_updated": "2026-08-17T17:21:13.178Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
