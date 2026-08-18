@@ -69,7 +69,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-10T21:02:18Z",
+                "last_commit": "2026-08-17T21:29:04Z",
                 "owner": "xpublish-community",
                 "repo": "xpublish-opendap",
                 "stars": 8
@@ -79,7 +79,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T21:02:25Z",
+            "last_commit": "2026-08-17T21:28:55Z",
             "owner": "xpublish-community",
             "repo": "xpublish",
             "stars": 209
@@ -113,7 +113,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:43:12Z",
+            "last_commit": "2026-08-18T14:56:22Z",
             "owner": "ome",
             "repo": "ome-zarr-py",
             "stars": 258
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T12:14:04Z",
+            "last_commit": "2026-08-18T15:38:38Z",
             "owner": "saalfeldlab",
             "repo": "n5",
             "stars": 204
@@ -282,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:21:13.178Z",
+    "last_updated": "2026-08-18T17:21:19.079Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
