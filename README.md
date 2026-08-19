@@ -118,7 +118,7 @@ Talks and tutorials
 
 In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-17 package.
 
-* [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 108 | 🐛 132 | 📅 2026-07-27
+* [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 108 | 🐛 133 | 📅 2026-07-27
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
 * [What's Next for Kerchunk](https://www.youtube.com/watch?v=sYgZkqTAgYk\&ab_channel=Pangeo)
 
@@ -218,7 +218,7 @@ Links
 
 * [n5](https://github.com/saalfeldlab/n5) ⭐ 204 | 🐛 29 | 🌐 Java | 📅 2026-08-19
 * [z5](https://github.com/constantinpape/z5) ⭐ 133 | 🐛 25 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
-* [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 108 | 🐛 132 | 📅 2026-07-27
+* [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 108 | 🐛 133 | 📅 2026-07-27
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
 
 ## GeoZarr
