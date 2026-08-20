@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 453147629,
                 "language": "C++",
-                "last_commit": "2026-08-19T14:41:29Z",
+                "last_commit": "2026-08-20T16:00:32Z",
                 "owner": "rapidsai",
                 "repo": "kvikio",
-                "stars": 274
+                "stars": 275
               }
             },
             {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-14T17:49:42Z",
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1352
+                    "stars": 1353
                   }
                 },
                 {
@@ -543,7 +543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:21:31.485Z",
+    "last_updated": "2026-08-20T17:22:52.269Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_id": 789521929,
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
