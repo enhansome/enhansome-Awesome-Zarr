@@ -434,10 +434,10 @@
                     "archived": false,
                     "id": 59798355,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-14T17:49:42Z",
+                    "last_commit": "2026-08-25T10:14:50Z",
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1353
+                    "stars": 1354
                   }
                 },
                 {
@@ -596,7 +596,7 @@
                 "last_commit": "2026-08-17T10:14:09Z",
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 919
+                "stars": 921
               }
             },
             {
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:28.093Z",
+    "last_updated": "2026-08-25T17:25:45.428Z",
     "original_repository": "DahnJ/Awesome-Zarr",
     "original_repository_id": 789521929,
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
