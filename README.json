@@ -632,7 +632,7 @@
                     "open_issues": 49,
                     "owner": "hms-dbmi",
                     "repo": "vizarr",
-                    "stars": 200,
+                    "stars": 199,
                     "topics": [
                       "hidivelab",
                       "jupyter-notebooks",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:27.693Z",
+    "last_updated": "2026-08-29T19:35:08.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
