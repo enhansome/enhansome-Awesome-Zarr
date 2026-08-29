@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Notebooks and other content for Zarr tutorials",
+                    "homepage": null,
                     "id": 480924472,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-07T11:45:24Z",
+                    "open_issues": 1,
                     "owner": "zarr-developers",
                     "repo": "tutorials",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open community with an interest in developing and using new technologies for tensor data storage.",
+                    "homepage": null,
                     "id": 195128874,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-11-29T16:20:22Z",
+                    "open_issues": 45,
                     "owner": "zarr-developers",
                     "repo": "community",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Showcase for beautiful data, code and usecases for Zarr",
+                    "homepage": null,
                     "id": 551601470,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2022-11-10T20:09:40Z",
+                    "open_issues": 0,
                     "owner": "zarr-developers",
                     "repo": "beautiful-zarr",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 }
@@ -79,24 +94,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenDAP router for Xpublish",
+                    "homepage": null,
                     "id": 492280108,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T21:02:05Z",
+                    "open_issues": 7,
                     "owner": "xpublish-community",
                     "repo": "xpublish-opendap",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Publish Xarray Datasets via a REST API.",
+                "homepage": "https://xpublish.readthedocs.io",
                 "id": 235846200,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:01:59Z",
+                "open_issues": 28,
                 "owner": "xpublish-community",
                 "repo": "xpublish",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "fast-api",
+                  "rest-api",
+                  "xarray"
+                ]
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -107,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small utility for generating ND array pyramids using Xarray and Zarr.",
+                "homepage": "https://ndpyramid.readthedocs.io",
                 "id": 397793314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T22:22:38Z",
+                "open_issues": 17,
                 "owner": "carbonplan",
                 "repo": "ndpyramid",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -123,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KvikIO - High Performance File IO",
+                "homepage": "https://docs.rapids.ai/api/kvikio/stable/",
                 "id": 453147629,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:52:21Z",
+                "open_issues": 77,
                 "owner": "rapidsai",
                 "repo": "kvikio",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -139,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disk-to-disk chunk transformation for chunked arrays.",
+                "homepage": "https://rechunker.readthedocs.io/",
                 "id": 265373118,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:34:32Z",
+                "open_issues": 50,
                 "owner": "pangeo-data",
                 "repo": "rechunker",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -155,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 612834137,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T00:29:45Z",
+                "open_issues": 2,
                 "owner": "google",
                 "repo": "xarray-tensorstore",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -171,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for writing large xarray datasets to zarr stores with independent processes",
+                "homepage": null,
                 "id": 326453719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T01:45:46Z",
+                "open_issues": 4,
                 "owner": "spencerkclark",
                 "repo": "xpartition",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -187,12 +241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Xarray with Apache Beam",
+                "homepage": "https://xarray-beam.readthedocs.io",
                 "id": 366509361,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T08:40:04Z",
+                "open_issues": 22,
                 "owner": "google",
                 "repo": "xarray-beam",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "beam",
+                  "dask",
+                  "xarray",
+                  "zarr"
+                ]
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -203,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package providing buffer compression and transformation codecs for use in data storage and communication applications.",
+                "homepage": "http://numcodecs.readthedocs.io",
                 "id": 68207196,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T19:31:21Z",
+                "open_issues": 130,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -219,12 +288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pydantic models for Zarr ",
+                "homepage": "https://pydantic-zarr.readthedocs.io",
                 "id": 647463932,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-05T07:26:33Z",
+                "open_issues": 33,
                 "owner": "zarr-developers",
                 "repo": "pydantic-zarr",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -235,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Describe zarr stores from the command line",
+                "homepage": null,
                 "id": 297876772,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-15T17:24:45Z",
+                "open_issues": 3,
                 "owner": "oliverwm1",
                 "repo": "zarrdump",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -251,12 +330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms for calculating a zarr checksum against local or cloud storage",
+                "homepage": "https://pypi.org/project/zarr-checksum/",
                 "id": 588642153,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-02T17:54:47Z",
+                "open_issues": 13,
                 "owner": "dandi",
                 "repo": "zarr_checksum",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -267,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 754703570,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-08T21:05:21Z",
+                "open_issues": 2,
                 "owner": "xaviernogueira",
                 "repo": "traverzarr",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -285,12 +374,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 448126049,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-02-29T16:31:57Z",
+                    "open_issues": 0,
                     "owner": "lsterzinger",
                     "repo": "2022-esip-kerchunk-tutorial",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -303,12 +397,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Zarr core protocol for storage and  retrieval of N-dimensional typed arrays",
+                        "homepage": "https://zarr-specs.readthedocs.io/",
                         "id": 165897071,
                         "language": null,
+                        "license": "CC-BY-4.0",
                         "last_commit": "2026-07-27T05:24:37Z",
+                        "open_issues": 134,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
-                        "stars": 109
+                        "stars": 109,
+                        "topics": [
+                          "arrays",
+                          "storage",
+                          "zarr"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:49:34.663Z"
                     }
@@ -336,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building a Zarr data cube using serverless cloud compute",
+                "homepage": null,
                 "id": 787436102,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-02T14:40:45Z",
+                "open_issues": 1,
                 "owner": "earth-mover",
                 "repo": "serverless-datacube-demo",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -352,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for creating weather forecast data cubes with a Modal serverless pipeline",
+                "homepage": null,
                 "id": 803603504,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-27T22:10:15Z",
+                "open_issues": 1,
                 "owner": "earth-mover",
                 "repo": "forecast-datacube-demo",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -368,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, notebooks, data and other useful material for the talks.",
+                "homepage": null,
                 "id": 629034105,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-25T09:10:32Z",
+                "open_issues": 0,
                 "owner": "sanketverma1704",
                 "repo": "presentations",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             }
@@ -391,12 +509,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud.",
+                "homepage": "https://ome-zarr.readthedocs.io/en/stable/",
                 "id": 261714880,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:18:29Z",
+                "open_issues": 81,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "ngff",
+                  "ome",
+                  "ome-zarr",
+                  "zarr"
+                ]
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -407,12 +535,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GIve easy, high-level access to ome-zarr fileset",
+                "homepage": "https://fmicompbio.github.io/ez_zarr/",
                 "id": 734227750,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-22T12:41:05Z",
+                "open_issues": 3,
                 "owner": "fmicompbio",
                 "repo": "ez_zarr",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "ome-zarr"
+                ]
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -423,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zarr I/O backend for HDMF",
+                "homepage": "https://hdmf-zarr.readthedocs.io/",
                 "id": 480721635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T12:47:20Z",
+                "open_issues": 47,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -439,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zarr-based format for storing quantitative biological dynamics data",
+                "homepage": null,
                 "id": 479211319,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-16T02:41:09Z",
+                "open_issues": 2,
                 "owner": "openssbd",
                 "repo": "bdz",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -457,12 +602,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebGL-based viewer for volumetric data",
+                    "homepage": "https://neuroglancer-docs.web.app",
                     "id": 59798355,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T10:15:33Z",
+                    "open_issues": 236,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1358
+                    "stars": 1358,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -473,12 +623,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A minimal Zarr image viewer based on Viv.",
+                    "homepage": "https://hms-dbmi.github.io/vizarr/?source=https://minio-dev.openmicroscopy.org/idr/v0.3/idr0062-blin-nuclearsegmentation/6001240.zarr",
                     "id": 275174329,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-22T14:50:55Z",
+                    "open_issues": 49,
                     "owner": "hms-dbmi",
                     "repo": "vizarr",
-                    "stars": 200
+                    "stars": 200,
+                    "topics": [
+                      "hidivelab",
+                      "jupyter-notebooks",
+                      "viv",
+                      "zarr"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 }
@@ -509,12 +669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Not HDF5",
+                    "homepage": null,
                     "id": 87148812,
                     "language": "Java",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-19T13:14:40Z",
+                    "open_issues": 29,
                     "owner": "saalfeldlab",
                     "repo": "n5",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -525,12 +690,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight C++ and Python interface for datasets in zarr and N5 format",
+                    "homepage": null,
                     "id": 101700504,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-07-02T16:42:43Z",
+                    "open_issues": 25,
                     "owner": "constantinpape",
                     "repo": "z5",
-                    "stars": 133
+                    "stars": 133,
+                    "topics": [
+                      "chunked-storage",
+                      "cloud",
+                      "h5py",
+                      "multidimensional-arrays",
+                      "multidimensional-data",
+                      "n5",
+                      "storage",
+                      "zarr"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 },
@@ -541,12 +720,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zarr core protocol for storage and  retrieval of N-dimensional typed arrays",
+                    "homepage": "https://zarr-specs.readthedocs.io/",
                     "id": 165897071,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-07-27T05:24:37Z",
+                    "open_issues": 134,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": [
+                      "arrays",
+                      "storage",
+                      "zarr"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
                 }
@@ -569,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoZarr defines geospatial conventions for storing multidimensional georeferenced grids using the Zarr format",
+                "homepage": "https://geozarr.org",
                 "id": 591315334,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-03T20:21:19Z",
+                "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             }
@@ -592,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STAC from xarray",
+                "homepage": null,
                 "id": 372801708,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-25T16:30:41Z",
+                "open_issues": 4,
                 "owner": "stac-utils",
                 "repo": "xstac",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -608,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This extension helps users open STAC Assets with xarray. It gives a place for catalog maintainers to specify various required or recommended options.",
+                "homepage": null,
                 "id": 381803731,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-04T08:06:13Z",
+                "open_issues": 3,
                 "owner": "stac-extensions",
                 "repo": "xarray-assets",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -624,12 +827,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable",
+                "homepage": "https://stacspec.org",
                 "id": 90879565,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T02:08:43Z",
+                "open_issues": 47,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 922
+                "stars": 922,
+                "topics": [
+                  "earth-observation",
+                  "earth-observation-catalogue",
+                  "satellite-imagery",
+                  "satellites"
+                ]
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             },
@@ -640,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoZarr defines geospatial conventions for storing multidimensional georeferenced grids using the Zarr format",
+                "homepage": "https://geozarr.org",
                 "id": 591315334,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-03T20:21:19Z",
+                "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
             }
@@ -659,15 +877,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:49:34.663Z",
+    "last_updated": "2026-08-29T05:00:27.693Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎀 Awesome Zarr resources",
+      "homepage": null,
       "id": 789521929,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-06-14T13:04:40Z",
+      "open_issues": 1,
       "owner": "DahnJ",
       "repo": "Awesome-Zarr",
-      "stars": 94
+      "stars": 94,
+      "topics": [
+        "array",
+        "awesome",
+        "awesome-list",
+        "data",
+        "data-format",
+        "zarr"
+      ]
     },
     "original_repository_sha": "a9025112505460ec4e97ce48049ad7211d86b9d3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Zarr",
