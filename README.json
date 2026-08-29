@@ -20,7 +20,8 @@
                     "owner": "zarr-developers",
                     "repo": "tutorials",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "zarr-developers",
                     "repo": "community",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "zarr-developers",
                     "repo": "beautiful-zarr",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 }
               ],
               "description": "Lists",
@@ -82,7 +85,8 @@
                     "owner": "xpublish-community",
                     "repo": "xpublish-opendap",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 }
               ],
               "repo_info": {
@@ -93,7 +97,8 @@
                 "owner": "xpublish-community",
                 "repo": "xpublish",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -107,8 +112,9 @@
                 "last_commit": "2026-07-06T22:22:38Z",
                 "owner": "carbonplan",
                 "repo": "ndpyramid",
-                "stars": 120
-              }
+                "stars": 121
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -119,11 +125,12 @@
                 "archived": false,
                 "id": 453147629,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:50:53Z",
+                "last_commit": "2026-08-28T20:52:21Z",
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -138,7 +145,8 @@
                 "owner": "pangeo-data",
                 "repo": "rechunker",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -153,7 +161,8 @@
                 "owner": "google",
                 "repo": "xarray-tensorstore",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -168,7 +177,8 @@
                 "owner": "spencerkclark",
                 "repo": "xpartition",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -183,7 +193,8 @@
                 "owner": "google",
                 "repo": "xarray-beam",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -198,7 +209,8 @@
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -213,7 +225,8 @@
                 "owner": "zarr-developers",
                 "repo": "pydantic-zarr",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -228,7 +241,8 @@
                 "owner": "oliverwm1",
                 "repo": "zarrdump",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -243,7 +257,8 @@
                 "owner": "dandi",
                 "repo": "zarr_checksum",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -258,7 +273,8 @@
                 "owner": "xaviernogueira",
                 "repo": "traverzarr",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "children": [
@@ -275,7 +291,8 @@
                     "owner": "lsterzinger",
                     "repo": "2022-esip-kerchunk-tutorial",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "children": [
@@ -292,7 +309,8 @@
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
                         "stars": 109
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:49:34.663Z"
                     }
                   ],
                   "description": "In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new VirtualiZarr package.",
@@ -324,7 +342,8 @@
                 "owner": "earth-mover",
                 "repo": "serverless-datacube-demo",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -339,7 +358,8 @@
                 "owner": "earth-mover",
                 "repo": "forecast-datacube-demo",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -354,7 +374,8 @@
                 "owner": "sanketverma1704",
                 "repo": "presentations",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             }
           ],
           "description": "Existing lists\nTalks",
@@ -372,11 +393,12 @@
                 "archived": false,
                 "id": 261714880,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:11:11Z",
+                "last_commit": "2026-08-28T14:18:29Z",
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -391,7 +413,8 @@
                 "owner": "fmicompbio",
                 "repo": "ez_zarr",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -406,7 +429,8 @@
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -421,7 +445,8 @@
                 "owner": "openssbd",
                 "repo": "bdz",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "children": [
@@ -434,11 +459,12 @@
                     "archived": false,
                     "id": 59798355,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T20:26:22Z",
+                    "last_commit": "2026-08-28T10:15:33Z",
                     "owner": "google",
                     "repo": "neuroglancer",
                     "stars": 1358
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "node_type": "item",
@@ -453,7 +479,8 @@
                     "owner": "hms-dbmi",
                     "repo": "vizarr",
                     "stars": 200
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 }
               ],
               "description": "Zarr has seen most work on visualization in the bioimaging community:",
@@ -488,7 +515,8 @@
                     "owner": "saalfeldlab",
                     "repo": "n5",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +531,8 @@
                     "owner": "constantinpape",
                     "repo": "z5",
                     "stars": 133
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +547,8 @@
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:49:34.663Z"
                 }
               ],
               "description": "Zarr and N5 are two similar array data formats that share common goals and development.\nThe Zarr V3 spec aims to provide a common implementation target (sources: 1, 2)\nLinks",
@@ -545,7 +575,8 @@
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             }
           ],
           "description": "GeoZarr is a proposal for a Zarr-based geospatial data format, being submitted as an OGC standard\nGeoZarr will define a metadata convention for Zarr stores that contain geospatial data.\nIt will also define the relationship of Zarr with CF and NetCDF\nLinks",
@@ -567,7 +598,8 @@
                 "owner": "stac-utils",
                 "repo": "xstac",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -582,7 +614,8 @@
                 "owner": "stac-extensions",
                 "repo": "xarray-assets",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -597,7 +630,8 @@
                 "owner": "radiantearth",
                 "repo": "stac-spec",
                 "stars": 922
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             },
             {
               "node_type": "item",
@@ -612,7 +646,8 @@
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-29T00:49:34.663Z"
             }
           ],
           "description": "STAC provides a common structure for describing and cataloging spatiotemporal assets.\nWith its hierarchical structure and key-value metadata support, Zarr's capabilities overlap significantly with STAC.\nThe communities have not yet converged on a canonical representation of Zarr datasets through STAC.\nToday, a good example of exposing Zarr in STAC is Planetary Computer\nMore discussion & Related links\nIn the future, the Zarr V3 Spec and GeoZarr convention will likely enable greater interoperability between STAC and Zarr.",
@@ -624,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:14:25.459Z",
+    "last_updated": "2026-08-29T00:49:34.663Z",
     "original_repository_info": {
       "archived": false,
       "id": 789521929,
