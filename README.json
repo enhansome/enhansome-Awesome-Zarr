@@ -163,7 +163,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:52:21Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 278,
@@ -836,7 +836,7 @@
                 "open_issues": 47,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 922,
+                "stars": 923,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:35:08.600Z",
+    "last_updated": "2026-08-30T19:35:39.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
