@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T17:49:11Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-03T16:22:48Z",
+                "open_issues": 82,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 278,
@@ -563,7 +563,7 @@
                 "id": 480721635,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T01:48:18Z",
+                "last_commit": "2026-09-03T05:24:52Z",
                 "open_issues": 48,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-31T17:56:54Z",
-                    "open_issues": 236,
+                    "open_issues": 237,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1358,
+                    "stars": 1359,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -836,7 +836,7 @@
                 "open_issues": 47,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 925,
+                "stars": 926,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:35:54.797Z",
+    "last_updated": "2026-09-03T19:34:13.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
