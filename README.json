@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:10:23Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-05T01:03:00Z",
+                "open_issues": 82,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 278,
@@ -607,11 +607,11 @@
                     "id": 59798355,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T15:14:57Z",
-                    "open_issues": 237,
+                    "last_commit": "2026-09-05T09:20:33Z",
+                    "open_issues": 235,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1360,
+                    "stars": 1361,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -678,7 +678,7 @@
                     "open_issues": 29,
                     "owner": "saalfeldlab",
                     "repo": "n5",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:15:27.209Z",
+    "last_updated": "2026-09-05T18:44:31.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
