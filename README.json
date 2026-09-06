@@ -611,7 +611,7 @@
                     "open_issues": 235,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1361,
+                    "stars": 1363,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:44:31.384Z",
+    "last_updated": "2026-09-06T18:48:09.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
