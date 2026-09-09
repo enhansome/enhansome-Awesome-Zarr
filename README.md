@@ -81,14 +81,14 @@ For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/impleme
 
 Storage & I/O
 
-* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 278 | 🐛 86 | 🌐 C++ | 📅 2026-09-08: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
+* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 278 | 🐛 84 | 🌐 C++ | 📅 2026-09-09: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 179 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-09-07: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,690 | 🐛 1,518 | 🌐 Python | 📅 2026-09-08)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,690 | 🐛 1,518 | 🌐 Python | 📅 2026-09-09)
 
 ETL
 
-* [xarray-beam](https://github.com/google/xarray-beam/) ⭐ 170 | 🐛 22 | 🌐 Python | 📅 2026-08-06: Integration of [xarray](https://docs.xarray.dev/en/stable/index.html) and [Apache Beam](https://beam.apache.org/) built using Zarr.
+* [xarray-beam](https://github.com/google/xarray-beam/) ⭐ 170 | 🐛 23 | 🌐 Python | 📅 2026-09-09: Integration of [xarray](https://docs.xarray.dev/en/stable/index.html) and [Apache Beam](https://beam.apache.org/) built using Zarr.
 * [Xarray](https://docs.xarray.dev/en/stable/index.html): Zarr is commonly written and accessed through xarray's API.
   * Xarray has its own [Zarr Encoding Specification](https://docs.xarray.dev/en/stable/internals/zarr-encoding-spec.html)
 * [Pangeo-forge](https://pangeo-forge.org/): Open-source data platform for transforming datasets into [analysis-ready cloud-optimized](https://ieeexplore.ieee.org/document/9354557) formats.
@@ -96,7 +96,7 @@ ETL
 
 Developer-oriented
 
-* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 149 | 🐛 131 | 🌐 Python | 📅 2026-09-07: Compression and transformation codecs used by Zarr
+* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 149 | 🐛 132 | 🌐 Python | 📅 2026-09-07: Compression and transformation codecs used by Zarr
 * [pydantic-zarr](https://github.com/janelia-cellmap/pydantic-zarr) ⭐ 49 | 🐛 33 | 🌐 Python | 📅 2026-08-05: Pydantic models for Zarr objects
 * [zarrdump](https://github.com/oliverwm1/zarrdump) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-02-15: Describe zarr stores from the command line
 * [zarr\_checksum](https://github.com/dandi/zarr_checksum) ⭐ 13 | 🐛 13 | 🌐 Python | 📅 2026-02-02: Calculating checksum information form Zarr
@@ -116,7 +116,7 @@ Talks and tutorials
 
 #### Future of Kerchunk
 
-In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-17 package.
+In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-09 package.
 
 * [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 109 | 🐛 134 | 📅 2026-07-27
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
@@ -154,9 +154,9 @@ Talks
 
 Zarr has seen great adoption in the life sciences domain.
 
-* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 258 | 🐛 83 | 🌐 Python | 📅 2026-09-08: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
+* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 258 | 🐛 80 | 🌐 Python | 📅 2026-09-08: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
 * [ez\_zarr](https://github.com/fmicompbio/ez_zarr) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2025-09-22: Easy, high-level access to OME-Zarr filesets
-* [hdmf-zarr](https://github.com/hdmf-dev/hdmf-zarr) ⭐ 10 | 🐛 48 | 🌐 Python | 📅 2026-09-08: Zarr I/O backend for [HDMF](https://hdmf.readthedocs.io/en/stable/)
+* [hdmf-zarr](https://github.com/hdmf-dev/hdmf-zarr) ⭐ 10 | 🐛 44 | 🌐 Python | 📅 2026-09-09: Zarr I/O backend for [HDMF](https://hdmf.readthedocs.io/en/stable/)
 * [bdz](https://github.com/openssbd/bdz) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-09-16: Zarr-based format for storing quantitative biosystems dynamics data
 
 Talks and resources
@@ -169,8 +169,8 @@ Talks and resources
 
 Zarr has seen most work on visualization in the bioimaging community:
 
-* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,369 | 🐛 235 | 🌐 TypeScript | 📅 2026-09-05: WebGL-based viewer for volumetric data
-* [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 199 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 361 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-01 (OME-Zarr and OME-TIFF)
+* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,370 | 🐛 235 | 🌐 TypeScript | 📅 2026-09-05: WebGL-based viewer for volumetric data
+* [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 199 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 361 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-01 (OME-Zarr and OME-TIFF)
 * List: [Image viewers with OME-Zarr support](https://ngff.openmicroscopy.org/tools/)
 * [WEBKNOSSOS](https://webknossos.org/): web-based visualization & annotation tool, supports OME-Zarr
 * [Napari](https://napari.org/stable/):  interactive viewer
@@ -217,7 +217,7 @@ The Zarr V3 spec aims to provide a common implementation target (sources: [1](ht
 Links
 
 * [n5](https://github.com/saalfeldlab/n5) ⭐ 207 | 🐛 29 | 🌐 Java | 📅 2026-08-31
-* [z5](https://github.com/constantinpape/z5) ⭐ 134 | 🐛 25 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
+* [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 25 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
 * [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 109 | 🐛 134 | 📅 2026-07-27
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
 
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
