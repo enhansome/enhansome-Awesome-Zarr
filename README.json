@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T19:01:39Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-11T18:39:40Z",
+                "open_issues": 80,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 279,
@@ -276,7 +276,7 @@
                 "open_issues": 132,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -406,7 +406,7 @@
                         "open_issues": 134,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
-                        "stars": 109,
+                        "stars": 110,
                         "topics": [
                           "arrays",
                           "storage",
@@ -563,7 +563,7 @@
                 "id": 480721635,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T19:17:32Z",
+                "last_commit": "2026-09-11T03:59:29Z",
                 "open_issues": 44,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-05T09:20:33Z",
-                    "open_issues": 236,
+                    "open_issues": 237,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1374,
+                    "stars": 1382,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -678,7 +678,7 @@
                     "open_issues": 29,
                     "owner": "saalfeldlab",
                     "repo": "n5",
-                    "stars": 207,
+                    "stars": 209,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -729,7 +729,7 @@
                     "open_issues": 134,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": [
                       "arrays",
                       "storage",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:25:29.467Z",
+    "last_updated": "2026-09-11T19:23:18.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
