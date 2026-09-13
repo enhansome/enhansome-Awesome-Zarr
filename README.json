@@ -145,7 +145,7 @@
                 "open_issues": 17,
                 "owner": "carbonplan",
                 "repo": "ndpyramid",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -187,7 +187,7 @@
                 "open_issues": 50,
                 "owner": "pangeo-data",
                 "repo": "rechunker",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -611,7 +611,7 @@
                     "open_issues": 238,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1395,
+                    "stars": 1421,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:53:56.434Z",
+    "last_updated": "2026-09-13T19:10:13.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",

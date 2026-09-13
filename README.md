@@ -76,15 +76,15 @@ For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/impleme
 * [xpublish](https://github.com/xpublish-community/xpublish) ⭐ 209 | 🐛 28 | 🌐 Python | 📅 2026-09-10: Exposing as and consuming Zarr through a REST API
   * See also routers at [xpublish-community](https://github.com/xpublish-community), e.g. [xpublish-opendap](https://github.com/xpublish-community/xpublish-opendap) ⭐ 8 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-07
   * [Improving Access to NOAA NOS Model Data with Kerchunk and Xpublish](https://www.youtube.com/watch?v=Bxkg6LJpKyc\&ab_channel=Pangeo)
-* [ndpyramid](https://github.com/carbonplan/ndpyramid) ⭐ 121 | 🐛 17 | 🌐 Python | 📅 2026-07-06: utility for generating ND array pyramids using Xarray and Zarr
+* [ndpyramid](https://github.com/carbonplan/ndpyramid) ⭐ 122 | 🐛 17 | 🌐 Python | 📅 2026-07-06: utility for generating ND array pyramids using Xarray and Zarr
 * [kerchunk](https://fsspec.github.io/kerchunk/), see [kerchunk section](#kerchunk)
 
 Storage & I/O
 
 * [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 279 | 🐛 81 | 🌐 C++ | 📅 2026-09-12: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
-* [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 179 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-09-07: disk-to-disk transformation for chunked arrays
+* [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 180 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-09-07: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,692 | 🐛 1,519 | 🌐 Python | 📅 2026-09-12)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,692 | 🐛 1,520 | 🌐 Python | 📅 2026-09-13)
 
 ETL
 
@@ -169,7 +169,7 @@ Talks and resources
 
 Zarr has seen most work on visualization in the bioimaging community:
 
-* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,395 | 🐛 238 | 🌐 TypeScript | 📅 2026-09-05: WebGL-based viewer for volumetric data
+* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,421 | 🐛 238 | 🌐 TypeScript | 📅 2026-09-05: WebGL-based viewer for volumetric data
 * [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 199 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 362 | 🐛 74 | 🌐 JavaScript | 📅 2026-09-10 (OME-Zarr and OME-TIFF)
 * List: [Image viewers with OME-Zarr support](https://ngff.openmicroscopy.org/tools/)
 * [WEBKNOSSOS](https://webknossos.org/): web-based visualization & annotation tool, supports OME-Zarr
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
