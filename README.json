@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:42:02Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-18T21:23:11Z",
+                "open_issues": 78,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T08:23:02Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 150,
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-17T16:15:42Z",
-                    "open_issues": 236,
+                    "open_issues": 237,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1507,
+                    "stars": 1517,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -833,7 +833,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T02:08:43Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
                 "stars": 931,
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:22:45.362Z",
+    "last_updated": "2026-09-19T19:07:05.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
