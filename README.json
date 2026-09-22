@@ -99,7 +99,7 @@
                     "id": 492280108,
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-14T21:09:23Z",
+                    "last_commit": "2026-09-21T20:57:14Z",
                     "open_issues": 7,
                     "owner": "xpublish-community",
                     "repo": "xpublish-opendap",
@@ -116,8 +116,8 @@
                 "id": 235846200,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T21:09:19Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-21T21:14:38Z",
+                "open_issues": 29,
                 "owner": "xpublish-community",
                 "repo": "xpublish",
                 "stars": 209,
@@ -402,7 +402,7 @@
                         "id": 165897071,
                         "language": null,
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-09-21T11:04:37Z",
+                        "last_commit": "2026-09-22T11:29:08Z",
                         "open_issues": 136,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
@@ -514,8 +514,8 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T07:46:05Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-22T19:33:58Z",
+                "open_issues": 84,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 258,
@@ -563,8 +563,8 @@
                 "id": 480721635,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T19:22:19Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-22T18:34:29Z",
+                "open_issues": 27,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
                 "stars": 10,
@@ -607,11 +607,11 @@
                     "id": 59798355,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T16:15:42Z",
-                    "open_issues": 237,
+                    "last_commit": "2026-09-22T18:01:24Z",
+                    "open_issues": 235,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1525,
+                    "stars": 1528,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -678,7 +678,7 @@
                     "open_issues": 29,
                     "owner": "saalfeldlab",
                     "repo": "n5",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -725,7 +725,7 @@
                     "id": 165897071,
                     "language": null,
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-09-21T11:04:37Z",
+                    "last_commit": "2026-09-22T11:29:08Z",
                     "open_issues": 136,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
@@ -766,7 +766,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -862,7 +862,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:43:30.822Z",
+    "last_updated": "2026-09-22T19:58:59.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
