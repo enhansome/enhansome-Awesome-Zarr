@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T15:00:14Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-24T13:54:39Z",
+                "open_issues": 77,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T08:23:02Z",
-                "open_issues": 129,
+                "open_issues": 128,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 150,
@@ -514,7 +514,7 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T19:33:58Z",
+                "last_commit": "2026-09-24T15:07:57Z",
                 "open_issues": 84,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T18:01:24Z",
-                    "open_issues": 237,
+                    "open_issues": 238,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1531,
+                    "stars": 1535,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -836,7 +836,7 @@
                 "open_issues": 49,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 933,
+                "stars": 932,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:56:00.181Z",
+    "last_updated": "2026-09-24T20:14:13.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
