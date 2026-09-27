@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T08:23:02Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 150,
@@ -403,7 +403,7 @@
                         "language": null,
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-09-22T11:29:08Z",
-                        "open_issues": 136,
+                        "open_issues": 138,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
                         "stars": 111,
@@ -515,7 +515,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T15:07:57Z",
-                "open_issues": 85,
+                "open_issues": 90,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 258,
@@ -611,7 +611,7 @@
                     "open_issues": 239,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1540,
+                    "stars": 1542,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -726,7 +726,7 @@
                     "language": null,
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-09-22T11:29:08Z",
-                    "open_issues": 136,
+                    "open_issues": 138,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
                     "stars": 111,
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:30:40.901Z",
+    "last_updated": "2026-09-27T19:56:39.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
