@@ -99,7 +99,7 @@
                     "id": 492280108,
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-21T20:57:14Z",
+                    "last_commit": "2026-09-28T21:41:44Z",
                     "open_issues": 7,
                     "owner": "xpublish-community",
                     "repo": "xpublish-opendap",
@@ -116,7 +116,7 @@
                 "id": 235846200,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T14:22:18Z",
+                "last_commit": "2026-09-28T21:41:01Z",
                 "open_issues": 29,
                 "owner": "xpublish-community",
                 "repo": "xpublish",
@@ -166,7 +166,7 @@
                 "open_issues": 79,
                 "owner": "rapidsai",
                 "repo": "kvikio",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -183,7 +183,7 @@
                 "id": 265373118,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-14T20:41:10Z",
+                "last_commit": "2026-09-28T21:10:45Z",
                 "open_issues": 50,
                 "owner": "pangeo-data",
                 "repo": "rechunker",
@@ -514,11 +514,11 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T15:07:57Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-28T21:36:38Z",
+                "open_issues": 93,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "ngff",
                   "ome",
@@ -607,11 +607,11 @@
                     "id": 59798355,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T18:01:24Z",
+                    "last_commit": "2026-09-28T15:02:49Z",
                     "open_issues": 239,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1542,
+                    "stars": 1543,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:56:39.242Z",
+    "last_updated": "2026-09-28T22:23:11.913Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
