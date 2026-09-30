@@ -116,8 +116,8 @@
                 "id": 235846200,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T21:41:01Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-30T18:32:59Z",
+                "open_issues": 22,
                 "owner": "xpublish-community",
                 "repo": "xpublish",
                 "stars": 209,
@@ -162,7 +162,7 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T14:46:29Z",
+                "last_commit": "2026-09-30T17:50:46Z",
                 "open_issues": 78,
                 "owner": "rapidsai",
                 "repo": "kvikio",
@@ -611,7 +611,7 @@
                     "open_issues": 239,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1543,
+                    "stars": 1546,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -632,7 +632,7 @@
                     "open_issues": 48,
                     "owner": "hms-dbmi",
                     "repo": "vizarr",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": [
                       "hidivelab",
                       "jupyter-notebooks",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:12:08.295Z",
+    "last_updated": "2026-09-30T21:09:52.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
