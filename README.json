@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:36:42Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-02T19:47:58Z",
+                "open_issues": 80,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -187,7 +187,7 @@
                 "open_issues": 50,
                 "owner": "pangeo-data",
                 "repo": "rechunker",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T15:02:49Z",
-                    "open_issues": 239,
+                    "open_issues": 240,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1547,
+                    "stars": 1550,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:32:07.518Z",
+    "last_updated": "2026-10-02T21:07:27.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
