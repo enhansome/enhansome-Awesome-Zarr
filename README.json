@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Zarr tutorials (zarr-developers/tutorials)",
-                  "description": null,
+                  "description": "zarr-developers/tutorials",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "Projects using Zarr (zarr-developers/community#19)",
-                  "description": null,
+                  "description": "zarr-developers/community",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "Beautiful Zarr (zarr-developers/beautiful-zarr)",
-                  "description": null,
+                  "description": "zarr-developers/beautiful-zarr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:47:58Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-02T22:05:07Z",
+                "open_issues": 81,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -370,7 +370,7 @@
                 {
                   "node_type": "item",
                   "title": "2022 ESIP Kerchunk Tutorial",
-                  "description": null,
+                  "description": "lsterzinger/2022-esip-kerchunk-tutorial",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -611,7 +611,7 @@
                     "open_issues": 240,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1550,
+                    "stars": 1551,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -665,7 +665,7 @@
                 {
                   "node_type": "item",
                   "title": "n5",
-                  "description": null,
+                  "description": "saalfeldlab/n5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -716,7 +716,7 @@
                 {
                   "node_type": "item",
                   "title": "Zarr N5 spec diff (zarr-specs#3)",
-                  "description": null,
+                  "description": "zarr-developers/zarr-specs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "Specs",
-              "description": null,
+              "description": "zarr-developers/geozarr-spec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "stac-spec#781: Zarr Extension?",
-              "description": null,
+              "description": "radiantearth/stac-spec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,7 +849,7 @@
             {
               "node_type": "item",
               "title": "geozarr-spec#32: Integration of Zarr with STAC Catalogs",
-              "description": null,
+              "description": "zarr-developers/geozarr-spec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:07:27.046Z",
+    "last_updated": "2026-10-03T04:28:10.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
