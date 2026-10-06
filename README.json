@@ -141,7 +141,7 @@
                 "id": 397793314,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-06T22:22:38Z",
+                "last_commit": "2026-10-06T01:03:02Z",
                 "open_issues": 17,
                 "owner": "carbonplan",
                 "repo": "ndpyramid",
@@ -514,8 +514,8 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T22:55:59Z",
-                "open_issues": 83,
+                "last_commit": "2026-10-06T09:03:14Z",
+                "open_issues": 82,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 259,
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T15:02:49Z",
-                    "open_issues": 241,
+                    "open_issues": 240,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1553,
+                    "stars": 1554,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:01:57.794Z",
+    "last_updated": "2026-10-06T10:42:22.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
