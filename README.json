@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:08:30Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-06T20:35:47Z",
+                "open_issues": 80,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -246,8 +246,8 @@
                 "id": 366509361,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T11:28:45Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-06T15:41:36Z",
+                "open_issues": 22,
                 "owner": "google",
                 "repo": "xarray-beam",
                 "stars": 170,
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T15:02:49Z",
-                    "open_issues": 240,
+                    "open_issues": 243,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1554,
+                    "stars": 1555,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -766,7 +766,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -832,7 +832,7 @@
                 "id": 90879565,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:51:16Z",
+                "last_commit": "2026-10-06T19:42:31Z",
                 "open_issues": 52,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
@@ -862,7 +862,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:22.893Z",
+    "last_updated": "2026-10-06T21:25:00.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
