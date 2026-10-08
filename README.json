@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T16:44:41Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-08T20:11:41Z",
+                "open_issues": 81,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 280,
@@ -518,7 +518,7 @@
                 "open_issues": 87,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "ngff",
                   "ome",
@@ -608,10 +608,10 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-07T14:57:11Z",
-                    "open_issues": 243,
+                    "open_issues": 242,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1555,
+                    "stars": 1556,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -836,7 +836,7 @@
                 "open_issues": 52,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:43:08.008Z",
+    "last_updated": "2026-10-08T21:43:20.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
