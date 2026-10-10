@@ -403,7 +403,7 @@
                         "language": null,
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-09-22T11:29:08Z",
-                        "open_issues": 138,
+                        "open_issues": 139,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
                         "stars": 112,
@@ -518,7 +518,7 @@
                 "open_issues": 89,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "ngff",
                   "ome",
@@ -563,8 +563,8 @@
                 "id": 480721635,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T18:34:29Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-10T19:04:26Z",
+                "open_issues": 29,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
                 "stars": 10,
@@ -611,7 +611,7 @@
                     "open_issues": 242,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1557,
+                    "stars": 1558,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -726,7 +726,7 @@
                     "language": null,
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-09-22T11:29:08Z",
-                    "open_issues": 138,
+                    "open_issues": 139,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
                     "stars": 112,
@@ -832,7 +832,7 @@
                 "id": 90879565,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T19:42:31Z",
+                "last_commit": "2026-10-10T10:42:39Z",
                 "open_issues": 52,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:25:12.723Z",
+    "last_updated": "2026-10-10T20:26:19.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
