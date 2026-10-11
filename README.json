@@ -116,8 +116,8 @@
                 "id": 235846200,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T23:00:26Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-11T14:41:01Z",
+                "open_issues": 20,
                 "owner": "xpublish-community",
                 "repo": "xpublish",
                 "stars": 209,
@@ -564,7 +564,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T19:04:26Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "hdmf-dev",
                 "repo": "hdmf-zarr",
                 "stars": 10,
@@ -611,7 +611,7 @@
                     "open_issues": 242,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1558,
+                    "stars": 1559,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:26:19.981Z",
+    "last_updated": "2026-10-11T20:43:56.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
