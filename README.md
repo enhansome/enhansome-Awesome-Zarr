@@ -38,7 +38,7 @@ This list focuses on Geo/Earth Sciences, but is not limited to that domain.
 
 Lists
 
-* [Zarr tutorials (zarr-developers/tutorials)](https://github.com/zarr-developers/tutorials) ⭐ 42 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-07
+* [Zarr tutorials (zarr-developers/tutorials)](https://github.com/zarr-developers/tutorials) ⭐ 43 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-07
 * [Projects using Zarr (zarr-developers/community#19)](https://github.com/zarr-developers/community/issues/19) ⭐ 18 | 🐛 45 | 📅 2023-11-29
 * [Beautiful Zarr (zarr-developers/beautiful-zarr)](https://github.com/zarr-developers/beautiful-zarr) ⭐ 8 | 🐛 0 | 📅 2022-11-10
 * The Zarr website already contains great lists:   [Zarr Implementations](https://zarr.dev/implementations/), [Zarr Datasets](https://zarr.dev/datasets/), [Zarr metadata conventions](https://zarr.dev/conventions/)
@@ -73,7 +73,7 @@ This list contains libraries that directly relate to Zarr in some way.
 
 For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/implementations/).
 
-* [xpublish](https://github.com/xpublish-community/xpublish) ⭐ 209 | 🐛 20 | 🌐 Python | 📅 2026-10-14: Exposing as and consuming Zarr through a REST API
+* [xpublish](https://github.com/xpublish-community/xpublish) ⭐ 209 | 🐛 20 | 🌐 Python | 📅 2026-10-15: Exposing as and consuming Zarr through a REST API
   * See also routers at [xpublish-community](https://github.com/xpublish-community), e.g. [xpublish-opendap](https://github.com/xpublish-community/xpublish-opendap) ⭐ 8 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-10-12
   * [Improving Access to NOAA NOS Model Data with Kerchunk and Xpublish](https://www.youtube.com/watch?v=Bxkg6LJpKyc\&ab_channel=Pangeo)
 * [ndpyramid](https://github.com/carbonplan/ndpyramid) ⭐ 123 | 🐛 17 | 🌐 Python | 📅 2026-10-06: utility for generating ND array pyramids using Xarray and Zarr
@@ -81,10 +81,10 @@ For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/impleme
 
 Storage & I/O
 
-* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 281 | 🐛 81 | 🌐 C++ | 📅 2026-10-14: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
+* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 281 | 🐛 81 | 🌐 C++ | 📅 2026-10-15: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 181 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-10-12: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,696 | 🐛 1,523 | 🌐 Python | 📅 2026-10-14)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,696 | 🐛 1,525 | 🌐 Python | 📅 2026-10-15)
 
 ETL
 
@@ -96,7 +96,7 @@ ETL
 
 Developer-oriented
 
-* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 152 | 🐛 139 | 🌐 Python | 📅 2026-10-05: Compression and transformation codecs used by Zarr
+* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 152 | 🐛 140 | 🌐 Python | 📅 2026-10-05: Compression and transformation codecs used by Zarr
 * [pydantic-zarr](https://github.com/janelia-cellmap/pydantic-zarr) ⭐ 49 | 🐛 33 | 🌐 Python | 📅 2026-08-05: Pydantic models for Zarr objects
 * [zarrdump](https://github.com/oliverwm1/zarrdump) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-02-15: Describe zarr stores from the command line
 * [zarr\_checksum](https://github.com/dandi/zarr_checksum) ⭐ 13 | 🐛 13 | 🌐 Python | 📅 2026-02-02: Calculating checksum information form Zarr
@@ -116,7 +116,7 @@ Talks and tutorials
 
 #### Future of Kerchunk
 
-In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-14 package.
+In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-15 package.
 
 * [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 112 | 🐛 140 | 📅 2026-09-22
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
@@ -154,7 +154,7 @@ Talks
 
 Zarr has seen great adoption in the life sciences domain.
 
-* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 262 | 🐛 90 | 🌐 Python | 📅 2026-10-12: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
+* [ome-zarr-py](https://github.com/ome/ome-zarr-py) ⭐ 262 | 🐛 91 | 🌐 Python | 📅 2026-10-12: Implementation of next-generation file format ([NGFF](https://ngff.openmicroscopy.org/)) specifications for storing bioimaging data in the cloud.
 * [ez\_zarr](https://github.com/fmicompbio/ez_zarr) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2025-09-22: Easy, high-level access to OME-Zarr filesets
 * [hdmf-zarr](https://github.com/hdmf-dev/hdmf-zarr) ⭐ 10 | 🐛 34 | 🌐 Python | 📅 2026-10-13: Zarr I/O backend for [HDMF](https://hdmf.readthedocs.io/en/stable/)
 * [bdz](https://github.com/openssbd/bdz) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-09-16: Zarr-based format for storing quantitative biosystems dynamics data
@@ -169,7 +169,7 @@ Talks and resources
 
 Zarr has seen most work on visualization in the bioimaging community:
 
-* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,562 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-13: WebGL-based viewer for volumetric data
+* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,562 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-15: WebGL-based viewer for volumetric data
 * [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 200 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 367 | 🐛 76 | 🌐 JavaScript | 📅 2026-09-23 (OME-Zarr and OME-TIFF)
 * List: [Image viewers with OME-Zarr support](https://ngff.openmicroscopy.org/tools/)
 * [WEBKNOSSOS](https://webknossos.org/): web-based visualization & annotation tool, supports OME-Zarr
@@ -216,7 +216,7 @@ The Zarr V3 spec aims to provide a common implementation target (sources: [1](ht
 
 Links
 
-* [n5](https://github.com/saalfeldlab/n5) ⭐ 212 | 🐛 29 | 🌐 Java | 📅 2026-08-31
+* [n5](https://github.com/saalfeldlab/n5) ⭐ 213 | 🐛 29 | 🌐 Java | 📅 2026-08-31
 * [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 25 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
 * [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 112 | 🐛 140 | 📅 2026-09-22
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
@@ -231,7 +231,7 @@ It will also define the relationship of Zarr with [CF](https://cfconventions.org
 
 Links
 
-* [Specs](https://github.com/zarr-developers/geozarr-spec) ⭐ 218 | 🐛 37 | 🌐 HTML | 📅 2026-08-03
+* [Specs](https://github.com/zarr-developers/geozarr-spec) ⭐ 219 | 🐛 37 | 🌐 HTML | 📅 2026-08-03
 * [Current status of GeoZarr](https://www.youtube.com/watch?v=arjEaBwXRxg\&ab_channel=Cloud-NativeGeospatialFoundation)
 
 ## Zarr & STAC
@@ -252,8 +252,8 @@ Today, a good example of exposing Zarr in STAC is  Planetary Computer
 
 More discussion & Related links
 
-* [stac-spec#781: Zarr Extension?](https://github.com/radiantearth/stac-spec/issues/781) ⭐ 934 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-10
-* [geozarr-spec#32: Integration of Zarr with STAC Catalogs](https://github.com/zarr-developers/geozarr-spec/issues/32) ⭐ 218 | 🐛 37 | 🌐 HTML | 📅 2026-08-03
+* [stac-spec#781: Zarr Extension?](https://github.com/radiantearth/stac-spec/issues/781) ⭐ 934 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-10
+* [geozarr-spec#32: Integration of Zarr with STAC Catalogs](https://github.com/zarr-developers/geozarr-spec/issues/32) ⭐ 219 | 🐛 37 | 🌐 HTML | 📅 2026-08-03
 * [Pangeo: Metadata duplication on STAC zarr collections](https://discourse.pangeo.io/t/metadata-duplication-on-stac-zarr-collections/3193/6)
 * [Tom Augspurper: STAC and Kerchunk](https://tomaugspurger.net/posts/stac-updates/#stac-and-kerchunk)
 * [Presentation | Daniel Jahn – STAC vs Zarr](https://cloud.mohr.ws/index.php/s/8oyTgc2kRK6QQcC?dir=undefined\&openfile=8487)
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
