@@ -403,10 +403,10 @@
                         "language": null,
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-09-22T11:29:08Z",
-                        "open_issues": 140,
+                        "open_issues": 139,
                         "owner": "zarr-developers",
                         "repo": "zarr-specs",
-                        "stars": 112,
+                        "stars": 113,
                         "topics": [
                           "arrays",
                           "storage",
@@ -726,10 +726,10 @@
                     "language": null,
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-09-22T11:29:08Z",
-                    "open_issues": 140,
+                    "open_issues": 139,
                     "owner": "zarr-developers",
                     "repo": "zarr-specs",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "arrays",
                       "storage",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:59:02.089Z",
+    "last_updated": "2026-10-18T19:10:54.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",

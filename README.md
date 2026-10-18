@@ -84,7 +84,7 @@ Storage & I/O
 * [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 281 | 🐛 80 | 🌐 C++ | 📅 2026-10-16: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 181 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-10-12: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,696 | 🐛 1,526 | 🌐 Python | 📅 2026-10-17)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,696 | 🐛 1,525 | 🌐 Python | 📅 2026-10-18)
 
 ETL
 
@@ -118,7 +118,7 @@ Talks and tutorials
 
 In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-15 package.
 
-* [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 112 | 🐛 140 | 📅 2026-09-22
+* [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 113 | 🐛 139 | 📅 2026-09-22
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
 * [What's Next for Kerchunk](https://www.youtube.com/watch?v=sYgZkqTAgYk\&ab_channel=Pangeo)
 
@@ -218,7 +218,7 @@ Links
 
 * [n5](https://github.com/saalfeldlab/n5) ⭐ 213 | 🐛 30 | 🌐 Java | 📅 2026-10-16
 * [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 25 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
-* [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 112 | 🐛 140 | 📅 2026-09-22
+* [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 113 | 🐛 139 | 📅 2026-09-22
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
 
 ## GeoZarr
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
