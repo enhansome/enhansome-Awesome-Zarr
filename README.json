@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T17:33:10Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-23T21:01:23Z",
+                "open_issues": 79,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 282,
@@ -246,8 +246,8 @@
                 "id": 366509361,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T15:41:36Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-23T20:19:31Z",
+                "open_issues": 23,
                 "owner": "google",
                 "repo": "xarray-beam",
                 "stars": 170,
@@ -515,7 +515,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T21:41:31Z",
-                "open_issues": 93,
+                "open_issues": 95,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 262,
@@ -611,7 +611,7 @@
                     "open_issues": 248,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1565,
+                    "stars": 1566,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:10:30.607Z",
+    "last_updated": "2026-10-24T19:11:32.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
