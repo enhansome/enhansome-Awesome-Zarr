@@ -250,7 +250,7 @@
                 "open_issues": 23,
                 "owner": "google",
                 "repo": "xarray-beam",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "beam",
                   "dask",
@@ -514,7 +514,7 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T21:41:31Z",
+                "last_commit": "2026-10-25T09:34:41Z",
                 "open_issues": 95,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
@@ -611,7 +611,7 @@
                     "open_issues": 248,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1566,
+                    "stars": 1568,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:11:32.214Z",
+    "last_updated": "2026-10-25T19:24:59.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
