@@ -162,11 +162,11 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:04:33Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-29T14:26:05Z",
+                "open_issues": 82,
                 "owner": "rapidsai",
                 "repo": "kvikio",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -205,7 +205,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-08T00:29:45Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "google",
                 "repo": "xarray-tensorstore",
                 "stars": 67,
@@ -611,7 +611,7 @@
                     "open_issues": 244,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1571,
+                    "stars": 1573,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -696,7 +696,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-07-02T16:42:43Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "constantinpape",
                     "repo": "z5",
                     "stars": 135,
@@ -836,7 +836,7 @@
                 "open_issues": 54,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:28:49.171Z",
+    "last_updated": "2026-10-29T21:30:20.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
