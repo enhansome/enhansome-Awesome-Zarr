@@ -162,11 +162,11 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:44:41Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-05T15:28:41Z",
+                "open_issues": 83,
                 "owner": "rapidsai",
                 "repo": "kvikio",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T10:22:08Z",
-                "open_issues": 146,
+                "open_issues": 148,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 153,
@@ -611,7 +611,7 @@
                     "open_issues": 243,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1579,
+                    "stars": 1578,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -696,7 +696,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-07-02T16:42:43Z",
-                    "open_issues": 29,
+                    "open_issues": 30,
                     "owner": "constantinpape",
                     "repo": "z5",
                     "stars": 135,
@@ -836,7 +836,7 @@
                 "open_issues": 54,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 939,
+                "stars": 940,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:19:58.543Z",
+    "last_updated": "2026-11-05T22:28:43.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
@@ -886,7 +886,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-06-14T13:04:40Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "DahnJ",
       "repo": "Awesome-Zarr",
       "stars": 94,
