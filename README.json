@@ -162,7 +162,7 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T15:28:41Z",
+                "last_commit": "2026-11-06T19:13:24Z",
                 "open_issues": 83,
                 "owner": "rapidsai",
                 "repo": "kvikio",
@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T10:22:08Z",
-                "open_issues": 148,
+                "open_issues": 153,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 153,
@@ -836,7 +836,7 @@
                 "open_issues": 54,
                 "owner": "radiantearth",
                 "repo": "stac-spec",
-                "stars": 940,
+                "stars": 941,
                 "topics": [
                   "earth-observation",
                   "earth-observation-catalogue",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:28:43.221Z",
+    "last_updated": "2026-11-06T21:54:07.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",

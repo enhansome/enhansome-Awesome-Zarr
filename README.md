@@ -81,10 +81,10 @@ For implementations of Zarr, see [Zarr Implementations](https://zarr.dev/impleme
 
 Storage & I/O
 
-* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 285 | 🐛 83 | 🌐 C++ | 📅 2026-11-05: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
+* [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 285 | 🐛 83 | 🌐 C++ | 📅 2026-11-06: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 182 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-11-02: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,697 | 🐛 1,529 | 🌐 Python | 📅 2026-11-05)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,697 | 🐛 1,529 | 🌐 Python | 📅 2026-11-06)
 
 ETL
 
@@ -96,7 +96,7 @@ ETL
 
 Developer-oriented
 
-* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 153 | 🐛 148 | 🌐 Python | 📅 2026-11-04: Compression and transformation codecs used by Zarr
+* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 153 | 🐛 153 | 🌐 Python | 📅 2026-11-04: Compression and transformation codecs used by Zarr
 * [pydantic-zarr](https://github.com/janelia-cellmap/pydantic-zarr) ⭐ 49 | 🐛 26 | 🌐 Python | 📅 2026-10-31: Pydantic models for Zarr objects
 * [zarrdump](https://github.com/oliverwm1/zarrdump) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-02-15: Describe zarr stores from the command line
 * [zarr\_checksum](https://github.com/dandi/zarr_checksum) ⭐ 13 | 🐛 13 | 🌐 Python | 📅 2026-02-02: Calculating checksum information form Zarr
@@ -116,7 +116,7 @@ Talks and tutorials
 
 #### Future of Kerchunk
 
-In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-28 package.
+In the future, Kerchunk will be split into upstream functionality in Zarr itself and a new [VirtualiZarr](https://github.com/TomNicholas/VirtualiZarr) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-06 package.
 
 * [Kerchunk JSON references](https://fsspec.github.io/kerchunk/spec.html) will become a part of the [Chunk manifest](https://github.com/zarr-developers/zarr-specs/issues/287) ⭐ 114 | 🐛 141 | 📅 2026-09-22
 * For a full overview, see [Upstreaming Kerchunk](https://hackmd.io/t9Myqt0HR7O0nq6wiHWCDA?view)
@@ -252,7 +252,7 @@ Today, a good example of exposing Zarr in STAC is  Planetary Computer
 
 More discussion & Related links
 
-* [stac-spec#781: Zarr Extension?](https://github.com/radiantearth/stac-spec/issues/781) ⭐ 940 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-04
+* [stac-spec#781: Zarr Extension?](https://github.com/radiantearth/stac-spec/issues/781) ⭐ 941 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-04
 * [geozarr-spec#32: Integration of Zarr with STAC Catalogs](https://github.com/zarr-developers/geozarr-spec/issues/32) ⭐ 220 | 🐛 37 | 🌐 HTML | 📅 2026-11-02
 * [Pangeo: Metadata duplication on STAC zarr collections](https://discourse.pangeo.io/t/metadata-duplication-on-stac-zarr-collections/3193/6)
 * [Tom Augspurper: STAC and Kerchunk](https://tomaugspurger.net/posts/stac-updates/#stac-and-kerchunk)
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
