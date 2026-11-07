@@ -162,7 +162,7 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T19:13:24Z",
+                "last_commit": "2026-11-07T03:03:09Z",
                 "open_issues": 83,
                 "owner": "rapidsai",
                 "repo": "kvikio",
@@ -608,7 +608,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-03T20:51:50Z",
-                    "open_issues": 243,
+                    "open_issues": 244,
                     "owner": "google",
                     "repo": "neuroglancer",
                     "stars": 1578,
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:54:07.488Z",
+    "last_updated": "2026-11-07T20:38:00.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
