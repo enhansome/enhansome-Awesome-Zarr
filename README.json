@@ -695,8 +695,8 @@
                     "id": 101700504,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-07-02T16:42:43Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-11-08T20:44:26Z",
+                    "open_issues": 27,
                     "owner": "constantinpape",
                     "repo": "z5",
                     "stars": 135,
@@ -762,7 +762,7 @@
                 "id": 591315334,
                 "language": "HTML",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-02T16:19:48Z",
+                "last_commit": "2026-11-08T19:30:46Z",
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
@@ -858,7 +858,7 @@
                 "id": 591315334,
                 "language": "HTML",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-02T16:19:48Z",
+                "last_commit": "2026-11-08T19:30:46Z",
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
@@ -877,7 +877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:38:00.475Z",
+    "last_updated": "2026-11-08T20:55:56.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",

@@ -84,7 +84,7 @@ Storage & I/O
 * [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 285 | 🐛 83 | 🌐 C++ | 📅 2026-11-07: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 182 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-11-02: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,697 | 🐛 1,530 | 🌐 Python | 📅 2026-11-07)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,697 | 🐛 1,531 | 🌐 Python | 📅 2026-11-08)
 
 ETL
 
@@ -217,7 +217,7 @@ The Zarr V3 spec aims to provide a common implementation target (sources: [1](ht
 Links
 
 * [n5](https://github.com/saalfeldlab/n5) ⭐ 213 | 🐛 31 | 🌐 Java | 📅 2026-11-03
-* [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 30 | 🌐 C++ | 📅 2026-07-02: C++ and Python interface for datasets in zarr and n5 format
+* [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 27 | 🌐 C++ | 📅 2026-11-08: C++ and Python interface for datasets in zarr and n5 format
 * [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 114 | 🐛 141 | 📅 2026-09-22
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
 
@@ -231,7 +231,7 @@ It will also define the relationship of Zarr with [CF](https://cfconventions.org
 
 Links
 
-* [Specs](https://github.com/zarr-developers/geozarr-spec) ⭐ 220 | 🐛 37 | 🌐 HTML | 📅 2026-11-02
+* [Specs](https://github.com/zarr-developers/geozarr-spec) ⭐ 220 | 🐛 37 | 🌐 HTML | 📅 2026-11-08
 * [Current status of GeoZarr](https://www.youtube.com/watch?v=arjEaBwXRxg\&ab_channel=Cloud-NativeGeospatialFoundation)
 
 ## Zarr & STAC
@@ -253,7 +253,7 @@ Today, a good example of exposing Zarr in STAC is  Planetary Computer
 More discussion & Related links
 
 * [stac-spec#781: Zarr Extension?](https://github.com/radiantearth/stac-spec/issues/781) ⭐ 941 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-04
-* [geozarr-spec#32: Integration of Zarr with STAC Catalogs](https://github.com/zarr-developers/geozarr-spec/issues/32) ⭐ 220 | 🐛 37 | 🌐 HTML | 📅 2026-11-02
+* [geozarr-spec#32: Integration of Zarr with STAC Catalogs](https://github.com/zarr-developers/geozarr-spec/issues/32) ⭐ 220 | 🐛 37 | 🌐 HTML | 📅 2026-11-08
 * [Pangeo: Metadata duplication on STAC zarr collections](https://discourse.pangeo.io/t/metadata-duplication-on-stac-zarr-collections/3193/6)
 * [Tom Augspurper: STAC and Kerchunk](https://tomaugspurger.net/posts/stac-updates/#stac-and-kerchunk)
 * [Presentation | Daniel Jahn – STAC vs Zarr](https://cloud.mohr.ws/index.php/s/8oyTgc2kRK6QQcC?dir=undefined\&openfile=8487)
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
