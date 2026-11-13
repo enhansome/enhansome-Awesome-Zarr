@@ -273,7 +273,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T10:22:08Z",
-                "open_issues": 155,
+                "open_issues": 157,
                 "owner": "zarr-developers",
                 "repo": "numcodecs",
                 "stars": 153,
@@ -293,7 +293,7 @@
                 "id": 647463932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-12T11:39:32Z",
+                "last_commit": "2026-11-13T17:04:05Z",
                 "open_issues": 25,
                 "owner": "zarr-developers",
                 "repo": "pydantic-zarr",
@@ -493,8 +493,8 @@
                 "id": 261714880,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T10:00:48Z",
-                "open_issues": 83,
+                "last_commit": "2026-11-13T13:27:32Z",
+                "open_issues": 84,
                 "owner": "ome",
                 "repo": "ome-zarr-py",
                 "stars": 263,
@@ -586,11 +586,11 @@
                     "id": 59798355,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T14:28:52Z",
-                    "open_issues": 243,
+                    "last_commit": "2026-11-13T15:43:41Z",
+                    "open_issues": 241,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1579,
+                    "stars": 1581,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -653,11 +653,11 @@
                     "id": 87148812,
                     "language": "Java",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-11-03T16:55:40Z",
+                    "last_commit": "2026-11-13T21:01:16Z",
                     "open_issues": 31,
                     "owner": "saalfeldlab",
                     "repo": "n5",
-                    "stars": 213,
+                    "stars": 214,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -674,8 +674,8 @@
                     "id": 101700504,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T19:32:19Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-11-13T14:59:36Z",
+                    "open_issues": 39,
                     "owner": "constantinpape",
                     "repo": "z5",
                     "stars": 135,
@@ -745,7 +745,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -841,7 +841,7 @@
                 "open_issues": 37,
                 "owner": "zarr-developers",
                 "repo": "geozarr-spec",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:49:34.663Z"
@@ -856,7 +856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:31:38.657Z",
+    "last_updated": "2026-11-13T22:20:28.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
