@@ -162,8 +162,8 @@
                 "id": 453147629,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T21:42:19Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-14T01:18:36Z",
+                "open_issues": 79,
                 "owner": "rapidsai",
                 "repo": "kvikio",
                 "stars": 285,
@@ -294,7 +294,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-13T17:04:05Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "zarr-developers",
                 "repo": "pydantic-zarr",
                 "stars": 49,
@@ -590,7 +590,7 @@
                     "open_issues": 241,
                     "owner": "google",
                     "repo": "neuroglancer",
-                    "stars": 1581,
+                    "stars": 1583,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:49:34.663Z"
@@ -856,7 +856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:20:28.313Z",
+    "last_updated": "2026-11-14T21:03:15.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎀 Awesome Zarr resources",
