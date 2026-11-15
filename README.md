@@ -84,7 +84,7 @@ Storage & I/O
 * [KivkIO](https://github.com/rapidsai/kvikio/) ⭐ 285 | 🐛 79 | 🌐 C++ | 📅 2026-11-14: C++ and Python bindings to [cuFile](https://docs.nvidia.com/gpudirect-storage/api-reference-guide/index.html), enabling [GPUDirect Storage](https://developer.nvidia.com/blog/gpudirect-storage/)
 * [rechunker](https://github.com/pangeo-data/rechunker) ⭐ 182 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-11-09: disk-to-disk transformation for chunked arrays
 * [Tensorstore](https://google.github.io/tensorstore/) and [xarray-tensorstore](https://github.com/google/xarray-tensorstore/) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2026-07-08: library for efficiently reading and writing large multi-dimensional arrays, has Zarr API
-* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,698 | 🐛 1,530 | 🌐 Python | 📅 2026-11-14)
+* [xpartition](https://github.com/spencerkclark/xpartition) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2026-07-31: writing large xarray datasets to Zarr. Works around shortcomings of Dask ([distributed#6360](https://github.com/dask/distributed/issues/6360) ⭐ 1,700 | 🐛 1,530 | 🌐 Python | 📅 2026-11-15)
 
 ETL
 
@@ -96,7 +96,7 @@ ETL
 
 Developer-oriented
 
-* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 153 | 🐛 157 | 🌐 Python | 📅 2026-11-04: Compression and transformation codecs used by Zarr
+* [numcodecs](https://github.com/zarr-developers/numcodecs) ⭐ 153 | 🐛 156 | 🌐 Python | 📅 2026-11-04: Compression and transformation codecs used by Zarr
 * [pydantic-zarr](https://github.com/janelia-cellmap/pydantic-zarr) ⭐ 49 | 🐛 26 | 🌐 Python | 📅 2026-11-13: Pydantic models for Zarr objects
 * [zarrdump](https://github.com/oliverwm1/zarrdump) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-02-15: Describe zarr stores from the command line
 * [zarr\_checksum](https://github.com/dandi/zarr_checksum) ⭐ 13 | 🐛 13 | 🌐 Python | 📅 2026-02-02: Calculating checksum information form Zarr
@@ -169,7 +169,7 @@ Talks and resources
 
 Zarr has seen most work on visualization in the bioimaging community:
 
-* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,583 | 🐛 241 | 🌐 TypeScript | 📅 2026-11-13: WebGL-based viewer for volumetric data
+* [Neuroglancer](https://github.com/google/neuroglancer) ⭐ 1,583 | 🐛 242 | 🌐 TypeScript | 📅 2026-11-13: WebGL-based viewer for volumetric data
 * [Vizarr](https://github.com/hms-dbmi/vizarr) ⭐ 201 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-22: interactive viewer built using [viv](https://github.com/hms-dbmi/viv) ⭐ 374 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-21 (OME-Zarr and OME-TIFF)
 * List: [Image viewers with OME-Zarr support](https://ngff.openmicroscopy.org/tools/)
 * [WEBKNOSSOS](https://webknossos.org/): web-based visualization & annotation tool, supports OME-Zarr
@@ -217,7 +217,7 @@ The Zarr V3 spec aims to provide a common implementation target (sources: [1](ht
 Links
 
 * [n5](https://github.com/saalfeldlab/n5) ⭐ 214 | 🐛 31 | 🌐 Java | 📅 2026-11-13
-* [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 39 | 🌐 C++ | 📅 2026-11-13: C++ and Python interface for datasets in zarr and n5 format
+* [z5](https://github.com/constantinpape/z5) ⭐ 135 | 🐛 38 | 🌐 C++ | 📅 2026-11-15: C++ and Python interface for datasets in zarr and n5 format
 * [Zarr N5 spec diff (zarr-specs#3)](https://github.com/zarr-developers/zarr-specs/issues/3) ⭐ 114 | 🐛 142 | 📅 2026-09-22
 * [zarr.n5](https://zarr.readthedocs.io/en/stable/api/n5.html)
 
@@ -245,7 +245,7 @@ The communities have not yet converged on a canonical representation of Zarr dat
 Today, a good example of exposing Zarr in STAC is  Planetary Computer
 
 * [xstac](https://github.com/stac-utils/xstac/tree/main?tab=readme-ov-file) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2025-02-25: STAC from xarray
-* Related STAC extensions: [xarray-assets](https://github.com/stac-extensions/xarray-assets) ⚠️ Archived, [datacube](https://github.com/stac-extensions/datacube) ⭐ 25 | 🐛 8 | 📅 2026-11-04
+* Related STAC extensions: [xarray-assets](https://github.com/stac-extensions/xarray-assets) ⚠️ Archived, [datacube](https://github.com/stac-extensions/datacube) ⭐ 25 | 🐛 11 | 📅 2026-11-04
 * [Reading Zarr Data](https://planetarycomputer.microsoft.com/docs/quickstarts/reading-zarr-data/)
 * STAC collection: [Daymet Annual North America](https://planetarycomputer.microsoft.com/dataset/daymet-annual-na)
 * STAC collection: [CIL Global Downscaled Projections for Climate Impacts Research](https://planetarycomputer.microsoft.com/dataset/group/cil-gdpcir)
@@ -263,4 +263,4 @@ In the future, the [Zarr V3 Spec](#zarr-v3) and [GeoZarr convention](#geozarr) w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
